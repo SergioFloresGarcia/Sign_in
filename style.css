@@ -3,6 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
+
+body { 
     background-image: url("fondo.jpg");
+}
+
+.formulario {
+    width: 400px;
+    height: 400px;
+    background: #95476b;
+    margin: auto;
+    margin-top: 180px;
+    box-shadow: 10px 15px 36px #100f0fcb;
+    padding: 10px 50px;
+    color:rgb(13, 13, 13)
+}
+
+.formulario h5 {
+    margin: 0;
+    text-align: center;
+
 }
